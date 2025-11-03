@@ -1,1 +1,1 @@
-# SIMPLE-INVENTORY-MANAGER
+https://pocket-stock-aid.lovable.app/inventory
